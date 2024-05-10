@@ -27,4 +27,12 @@ The script produces the following results on each worksheet:
 - A summary table containing annual change, percentage change, and total volume information for each stock.
 - A special area displaying the greatest increase, the greatest decrease, and the highest volume.
 
+## Contributing
+If you would like to contribute to this project, please submit a pull request via git@github.com:endoplasmicosmic/VBA-challenge.git or share your suggestions at scy.gingery@gmail.com].
+
+## License
+This project is licensed under the NWU_BootCamp. For more information, please refer to the `LICENSE` file.
+
+
+
 # VBA-challenge
