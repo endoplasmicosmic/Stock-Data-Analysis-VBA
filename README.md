@@ -1,13 +1,16 @@
-# Stock Data Analysis VBA Script
+# Stock-Data-Analysis-VBA
 
 ## Description
+
 This VBA script analyzes stock data across multiple worksheets in Excel. It calculates and summarizes the following information for each stock on each worksheet:
 - Annual Change
 - Percentage Change
 - Total Volume
+
 Additionally, it identifies the highest increase, the most significant decrease, and the highest volume, displaying these details in a separate section.
 
 ## Installation
+
 To use this script, follow these steps:
 1. Open Microsoft Excel.
 2. Enable the `Developer` tab (if not visible, activate it through Excel Options).
@@ -17,22 +20,14 @@ To use this script, follow these steps:
 6. Close the VBA editor and return to Excel.
 
 ## Usage
+
 To run the script:
 1. In Excel, click on the `Macros` button.
 2. Select the `Stock_Data_Challenge` macro and click `Run` to execute the script.
 3. After the script runs, you can view the results on each worksheet.
 
 ## Results
+
 The script produces the following results on each worksheet:
 - A summary table containing annual change, percentage change, and total volume information for each stock.
 - A special area displaying the greatest increase, the greatest decrease, and the highest volume.
-
-## Contributing
-If you would like to contribute to this project, please submit a pull request via [git@github.com:endoplasmicosmic/VBA-challenge.git] or share your suggestions at [scy.gingery@gmail.com].
-
-## License
-This project is licensed under the NWU_BootCamp. For more information, please refer to the `LICENSE` file.
-
-
-
-# VBA-challenge
